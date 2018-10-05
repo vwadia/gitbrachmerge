@@ -33,4 +33,9 @@ alt.Chart(df
             x='x:Q',
             y='y:Q')
 
+df_new = df.head()
+
+df_new.head()
+
+
 
